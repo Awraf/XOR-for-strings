@@ -1,2 +1,2 @@
-# XOR-for-strings
+# XOR for strings
 C# XOR (.NET Core) 
